@@ -1,13 +1,25 @@
-<!-- PERFIL README - CLEVESON GOMES - VERSÃO MR. ROBOT ULTRA -->
+<!-- PERFIL README - CLEVESON GOMES - VERSÃO MR. ROBOT ULTRA EXTENDED -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=36&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=welcome+to+my+digital+domain;I+am+root;Hack+the+planet;Mr.+Robot+mode+activated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=36&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=welcome+to+my+digital+domain;I+am+root;Hack+the+planet;Mr.+Robot+mode+activated;Exploit+Development+in+progress..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Mr Robot Hack" />
   <img src="https://media.giphy.com/media/26xBMuH4pO1iRZr4c/giphy.gif" width="400" alt="Matrix Code Rain" />
 </p>
+
+```python
+# MR. ROBOT hacking snippet
+import requests
+url = 'https://hacktheplanet.com/login'
+credentials = {'user':'fsociety','pass':'mrrobot'}
+r = requests.post(url, data=credentials)
+if 'Welcome' in r.text:
+    print("Access granted to digital domain")
+else:
+    print("Access denied. Time to exploit.")
+```
 
 ```diff
 - if (system == vulnerable) {
@@ -30,6 +42,7 @@ specialties:
   - Linux Security
   - Python Development
   - Reverse Engineering
+  - Threat Hunting
 passion: Mr. Robot vibes, code rain, cyber mysteries
 contact: linkedin.com/in/cleverson-henrique-319423214
 ```
@@ -38,14 +51,14 @@ contact: linkedin.com/in/cleverson-henrique-319423214
 
 ### 🚀 Skills & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,git,wireshark,metasploit,selenium,docker,html,css,js,bash,vscode,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,git,wireshark,metasploit,selenium,docker,html,css,js,bash,vscode,nginx,postgresql,mysql" />
 </div>
 
 ---
 
 ### 🖥️ Mr. Robot Style Terminal
 <div align="center">
-  <img src="https://readme-visual-generator.vercel.app/terminal?lines=[root@fsociety]~$+nmap+-sC+-A+hacktheplanet.com;[root@fsociety]~$+sqlmap+-u+https://target.com+--dump+--batch;[root@fsociety]~$+python3+exploit.py;[root@fsociety]~$+echo+'HACK+THE+PLANET'&theme=dracula&font=Fira+Code&width=900" width="900" alt="FSociety Terminal" />
+  <img src="https://readme-visual-generator.vercel.app/terminal?lines=[root@fsociety]~$+nmap+-sC+-A+hacktheplanet.com;[root@fsociety]~$+sqlmap+-u+https://target.com+--dump+--batch;[root@fsociety]~$+python3+exploit.py;[root@fsociety]~$+cat+/etc/shadow;[root@fsociety]~$+echo+'HACK+THE+PLANET'&theme=dracula&font=Fira+Code&width=900" width="900" alt="FSociety Terminal" />
 </div>
 
 ---
@@ -58,6 +71,7 @@ contact: linkedin.com/in/cleverson-henrique-319423214
 | ssl-monitor         | Monitoramento de SSL/TLS com alertas estilo glitch          | https://github.com/cleverson-gomes/ssl-monitor       |
 | hack-sim            | Simulador visual de terminal hacker estilo Mr. Robot        | https://github.com/cleverson-gomes/hack-sim          |
 | security_scanner.py | Scanner Python para segurança HTTP, SSL e fingerprint tech  | https://github.com/cleverson-gomes/security_scanner  |
+| exploit-lab         | Scripts de exploits didáticos e estudo de vulnerabilidades  | https://github.com/cleverson-gomes/exploit-lab       |
 
 ---
 
@@ -90,6 +104,7 @@ flowchart TB
   E --> F[DevSecOps Integration]
   F --> G[Zero Trust Architecture]
   G --> H[Cyber Threat Hunting]
+  H --> I[AI-driven Security Analysis]
 ```
 
 ---
