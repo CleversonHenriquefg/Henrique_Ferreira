@@ -56,6 +56,11 @@ contact: linkedin.com/in/cleverson-henrique-319423214
 
 ---
 
+### 🖥️ Terminal Estilo Mr. Robot
+#### Terminal FSociety - comandos reais, estilo hacker
+
+---
+
 ### 🖥️ Mr. Robot Style Terminal
 <div align="center">
   <img src="https://readme-visual-generator.vercel.app/terminal?lines=[root@fsociety]~$+nmap+-sC+-A+hacktheplanet.com;[root@fsociety]~$+sqlmap+-u+https://target.com+--dump+--batch;[root@fsociety]~$+python3+exploit.py;[root@fsociety]~$+cat+/etc/shadow;[root@fsociety]~$+echo+'HACK+THE+PLANET'&theme=dracula&font=Fira+Code&width=900" width="900" alt="FSociety Terminal" />
